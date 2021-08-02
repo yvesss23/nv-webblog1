@@ -1,0 +1,16 @@
+{
+  "name": "nv-webblog1",
+  "version": "1.0.0",
+  "description": "NodeJs + VuaJs for webblog (Backend)",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satiphon pramanee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.5",
+    "sqlite3": "^5.0.2"
+  }
+}
