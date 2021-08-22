@@ -1,6 +1,6 @@
 # nv-webblog-client
 
-> nodejs vuejs webblog client
+> nosdjs vuejs webblog client
 
 ## Build Setup
 
